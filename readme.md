@@ -25,6 +25,8 @@
 
 - [rmv-patchsets](https://github.com/skaes/rvm-patchsets) &mdash;
   set of patches mainly to improve GC time and allocation tracking for profilers.
+- [railsexpress](https://github.com/adymo/ruby-build-railsexpress) &mdash;
+  [rbevn](https://github.com/rbenv/rbenv) plugin which patches built Rubies with `rvm-patchsets`.
 
 ## Articles, Posts, Talks, and Presentations
 

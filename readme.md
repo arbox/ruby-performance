@@ -1,4 +1,5 @@
-[[RubyNLP](https://github.com/arbox/nlp-with-ruby) |
+[[RubyML](https://github.com/arbox/machine-learning-with-ruby) |
+ [RubyNLP](https://github.com/arbox/nlp-with-ruby) |
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 

@@ -21,6 +21,11 @@
 
 <!-- doc -->
 
+## Performance Enhancements
+
+- [rmv-patchsets](https://github.com/skaes/rvm-patchsets) &mdash;
+  set of patches mainly to improve GC time and allocation tracking for profilers.
+
 ## Articles, Posts, Talks, and Presentations
 
 - 2019

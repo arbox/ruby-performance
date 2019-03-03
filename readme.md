@@ -28,12 +28,10 @@
 
 ## Books, Blogs, Channels
 
--  [Kirk, Matthew](https://twitter.com/mjkirk).
-   _Thoughtful Machine Learning: A Test-Driven Approach_. O'Reilly, 2014.
-   <sup>[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |
-         [code](https://github.com/thoughtfulml/examples)]</sup>
-- [Practical Artificial Intelligence](https://www.practicalai.io/) -
-  Blog about Artificial Intelligence and Machine Learning with tutorials and code samples in Ruby.
+- [Alexander Dymo](https://twitter.com/alexander_dymo)
+  _Ruby Performance Optimization: Why Ruby is Slow, and How to Fix It_.
+  Pragmatic Programmers, 2015
+  <sup>[[Companion Site](http://ruby-performance-book.com)]</sup>
 
 ## Community
 

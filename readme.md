@@ -38,8 +38,9 @@
 
 - [Alexander Dymo](https://twitter.com/alexander_dymo)
   _Ruby Performance Optimization: Why Ruby is Slow, and How to Fix It_.
-  Pragmatic Programmers, 2015
-  <sup>[[Companion Site](http://ruby-performance-book.com)]</sup>
+  Pragmatic Programmers, 2015 <sup>[[companion site](http://ruby-performance-book.com)]</sup>
+- [Speedshop Blog](https://www.speedshop.co/blog/) &mdash;
+  blog by [Nate Berkopec](https://twitter.com/nateberkopec) on Performance Optimization.
 
 ## Community
 

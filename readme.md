@@ -21,6 +21,10 @@
 
 <!-- doc -->
 
+## Stack Visualizations
+- [Rails Trace](https://rails-trace.chriszetter.com/) &mdash;
+  shows what code runs when a request is processed by a Rails (5.2.2) application.
+
 ## Performance Enhancements
 
 - [rvm-patchsets](https://github.com/skaes/rvm-patchsets) &mdash;

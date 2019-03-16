@@ -35,6 +35,8 @@
 ## Articles, Posts, Talks, and Presentations
 
 - 2019
+  - https://engineering.appfolio.com/appfolio-engineering/2019/2/25/benchmarking-hongli-lais-new-patch-for-ruby-memory-savings
+  - https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html
 - 2018
 - 2017
 
